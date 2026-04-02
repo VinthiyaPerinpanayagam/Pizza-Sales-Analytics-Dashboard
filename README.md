@@ -29,7 +29,7 @@ Analyzed 48,000+ pizza sales records to extract key business KPIs, sales trends,
 
 ## 🔗 Dashboard Preview
 ![Sales Overview](Home.png)
-![Product Performance](Best_or_Worst_Sellers.png)
+![Product Performance](BestorWorstSellers.png)
 
 ## 📁 Project Files
 - `SQLQuery1.sql` — SQL queries used for analysis
